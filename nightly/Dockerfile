@@ -9,6 +9,7 @@ RUN apt-get update && \
        curl \
        gcc \
        libc6-dev \
+       libssl-dev \
        -qqy \
        --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
