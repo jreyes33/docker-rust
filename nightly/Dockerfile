@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Andrew Scorpil "dev@scorpil.com"
+MAINTAINER Jonathan Reyes <j@jreyes.org>
 
 ENV DEBIAN_FRONTEND=noninteractive
 

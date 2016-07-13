@@ -1,17 +1,5 @@
-# Supported tags and respective `Dockerfile` links
-- [`1.5` (*/1.5/Dockerfile*)](/1.5/Dockerfile)
-- [`1.5-onbuild` (*/1.5/onbuild/Dockerfile*)](/1.5/onbuild/Dockerfile)
-- [`1.6` (*/1.6/Dockerfile*)](/1.6/Dockerfile)
-- [`1.6-onbuild` (*/1.6/onbuild/Dockerfile*)](/1.6/onbuild/Dockerfile)
-- [`1.7` (*/1.7/Dockerfile*)](/1.7/Dockerfile)
-- [`1.7-onbuild` (*/1.7/onbuild/Dockerfile*)](/1.7/onbuild/Dockerfile)
-- [`1.8` (*/1.8/Dockerfile*)](/1.8/Dockerfile)
-- [`1.8-onbuild` (*/1.8/onbuild/Dockerfile*)](/1.8/onbuild/Dockerfile)
-- [`1.9` (*/1.9/Dockerfile*)](/1.9/Dockerfile)
-- [`1.9-onbuild` (*/1.9/onbuild/Dockerfile*)](/1.9/onbuild/Dockerfile)
-- [`1.10`, `1`, `stable`, `latest` (*/stable/Dockerfile*)](/stable/Dockerfile)
-- [`1.10-onbuild`, `1-onbuild`, `stable-onbuild`, `onbuild` (*/stable/onbuild/Dockerfile*)](/stable/onbuild/Dockerfile)
-- [`1.11`, `beta` (*/beta/Dockerfile*)](/beta/Dockerfile)
-- [`1.11-onbuild`, `beta-onbuild` (*/beta/onbuild/Dockerfile*)](/beta/onbuild/Dockerfile)
-- [`1.12`, `nightly` (*/nightly/Dockerfile*)](/nightly/Dockerfile)
-- [`1.12-onbuild`, `nightly-onbuild` (*/nightly/onbuild/Dockerfile*)](/nightly/onbuild/Dockerfile)
+# docker-rust
+
+## Tags
+
+- `nightly`
